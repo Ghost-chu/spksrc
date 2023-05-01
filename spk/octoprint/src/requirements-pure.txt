@@ -19,7 +19,7 @@ colorlog==6.6.0
 emoji==1.7.0
 feedparser==6.0.10
 filetype==1.0.13
-Flask==2.1.2
+Flask==2.3.2
 Flask-Assets==2.0
 Flask-Babel==2.0.0
 Flask-Login==0.5.0
