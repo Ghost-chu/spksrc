@@ -19,7 +19,7 @@ pyOpenSSL==19.1.0
 python-dateutil==2.8.1
 python-gnupg==0.4.4
 pytz==2021.1
-requests==2.25.1
+requests==2.31.0
 rpm-vercmp==0.1.2
 salt==3004
 six==1.16.0
