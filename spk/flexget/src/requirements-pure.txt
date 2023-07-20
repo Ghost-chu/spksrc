@@ -67,7 +67,7 @@ progressbar==2.5
 #psutil==5.8.0               ==> crossenv
 ptyprocess==0.7.0
 pycparser==2.21
-pygments==2.10.0
+pygments==2.15.0
 pylev==1.4.0
 pynzb==0.1.0
 pyparsing==2.4.7
